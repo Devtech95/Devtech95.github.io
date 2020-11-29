@@ -1,9 +1,9 @@
 
 ---
-![alt text](profile.jpg)
+![alt text](https://github.com/Devtech95/Devtech95.github.io/blob/main/Pic/profile.jpg){: width=150 height=100 style="float:right; padding:16px"}
 
 # Theerapong Kanrawong
-    theerapong Kanrawong started his career as IT Support
+    theerapong Kanrawong started his career as IT Support 
 ---
 ## AKA : "@#ker"
 ---
