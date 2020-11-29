@@ -1,12 +1,12 @@
 
 ---
-![alt text](https://github.com/Devtech95/Devtech95.github.io/blob/main/Pic/profile.jpg){: width=150 height=100 style="float:right; padding:16px"}
+![alt text](https://github.com/Devtech95/Devtech95.github.io/blob/main/Pic/profile.jpg){: width="30%" height="30%" style="float:right; padding:16px"}
 
 # Theerapong Kanrawong
     theerapong Kanrawong started his career as IT Support 
----
+
 ## AKA : "@#ker"
----
+
 
 ## Education
 1. 2020 - Present [Master of Science Cybersecurity Engineering At Mahanakorn University of Technology](https://www.msit.mut.ac.th/)
