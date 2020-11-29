@@ -1,6 +1,6 @@
 
 ---
-![alt text](https://github.com/Devtech95/Devtech95.github.io/blob/main/Pic/profile.jpg){: width="30%" height="30%" style="float:right; padding:16px"}
+![alt text](https://github.com/Devtech95/Devtech95.github.io/blob/main/Pic/profile.jpg){:width="30%" height="30%"}
 
 # Theerapong Kanrawong
     theerapong Kanrawong started his career as IT Support 
