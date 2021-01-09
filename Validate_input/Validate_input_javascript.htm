@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Can Validate Input BY Theerapong Kanrawong</h2>
+<h2>#Code4Sec Week, Day X #NEIS0736 #NECS0736</h2>
+
+<p>Please input a number 13 digits. :</p>
+
+<input id="numb">
+
+<button type="button" onclick="myFunction()">Submit</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+  var x, text;
+  var regex1=/^[0-9]{13}$/;
+
+  // Get the value of the input field with id="numb"
+  x = document.getElementById("numb").value;
+
+  // If x is Not a Number or Fill out the 13 digits
+  if (!regex1.test(x)) {
+    text = "Input not valid";
+  } else {
+    text = "Input OK";
+  }
+  document.getElementById("demo").innerHTML = text;
+}
+</script>
+
+</body>
+</html> 
