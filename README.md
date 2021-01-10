@@ -1,7 +1,7 @@
 
 ---
-![alt text](Pic/profile.jpg){:width="30%" height="30%"}
-<img align="left" width="400" height="200" src="Pic/profile.jpg">
+
+<img align="center" width="30%" height="30%" src="Pic/profile.jpg">
 Theerapong Kanrawong
 ===============
 ## PERSONAL INFORMATION 
