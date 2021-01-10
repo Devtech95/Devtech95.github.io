@@ -1,10 +1,13 @@
 ## Javascript > EncodeURIComponent
 
-<img align="center" width="400" height="200" src="https://devtech95.github.io/Day2_EncodeURIComponent/Pic/Javascript.gif">
+<img align="center" width="800" height="200" src="https://devtech95.github.io/Day2_EncodeURIComponent/Pic/banner.png">
 
 ## Syntax
+
 > - encodeURIComponent(str);
+
 ## Parameters
+
 > - String. A component of a URI.
 
 <img align="center" width="400" height="200" src="https://devtech95.github.io/Day2_EncodeURIComponent/Pic/Simple.PNG">
