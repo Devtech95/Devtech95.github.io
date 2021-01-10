@@ -10,15 +10,15 @@
 
 # ลองทดสอบโดยการใส่ข้อมูลตัวเลขแปลกๆ เช่น  -1
 ![at](https://devtech95.github.io/Day1_Validate_input/Pic/IncorrectRegExp.PNG)
-# จะเห็นข้อความว่า Input not valid 
+จะเห็นข้อความว่า Input not valid 
 
 # ลองทดสอบโดยการใส่ข้อมูลตัวอักษร เช่น theerapong
 ![at](https://devtech95.github.io/Day1_Validate_input/Pic/IncorrectRegExp2.PNG)
-# จะเห็นข้อความว่า Input not valid เช่นเดียวกัน
+จะเห็นข้อความว่า Input not valid เช่นเดียวกัน
 
 # ครั้งนี้ลองทดสอบกรอกข้อมูลเลย 13 หลัก
 ![at](https://devtech95.github.io/Day1_Validate_input/Pic/correctRegExp.PNG)
-# จะเห็นข้อความว่า Input OK
+จะเห็นข้อความว่า Input OK
 
 ## บทความเป็นตัวอย่างการใช้งานอย่างคร่าว ในการกรอกข้อมูลเข้าสู่ระบบ ขอบคุณครับ
 
