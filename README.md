@@ -2,6 +2,9 @@
 ---
 
 <img align="center" width="30%" height="30%" src="Pic/profile.jpg">
+
+
+
 Theerapong Kanrawong
 ===============
 ## PERSONAL INFORMATION 
