@@ -1,6 +1,6 @@
 ## Javascript > Validate input By RegExp
 
-![<img src="https://devtech95.github.io/Day1_Validate_input/Pic/Javascript.gif" width="250"/>](https://devtech95.github.io/Validate_input/Pic/Javascript.gif)
+<img align="left" width="200" height="200" src="https://devtech95.github.io/Day1_Validate_input/Pic/Javascript.gif">
 
 ##  ทำไมเราต้องกรองข้อมูลที่รับมาจากผู้ใช้งาน
     เพื่อให้ได้ข้อมูลที่ถูกต้องตามที่เรากำหนด ผู้ใช้งานไม่ควรกรอกข้อมูลแปลกๆ เข้ามาในระบบได้
