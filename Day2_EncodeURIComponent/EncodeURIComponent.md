@@ -1,6 +1,6 @@
 ## Javascript > EncodeURIComponent
 
-<img align="center" width="800" height="200" src="https://devtech95.github.io/Day2_EncodeURIComponent/Pic/banner.png">
+<img align="center" width="600" height="200" src="https://devtech95.github.io/Day2_EncodeURIComponent/Pic/banner.png">
 
 ## Syntax
 
