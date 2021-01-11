@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Can Encode and Decode BY Theerapong Kanrawong</h2>
+<h2>#Code4Sec Week, Day 3 #NEIS0736 #NECS0736</h2>
+
+<p>ข้อมูลก่อน Encode :</p>
+
+<p id="BeforeEncode"></p>
+
+<p>ข้อมูลหลัง Encode เสร็จแล้ว :</p>
+
+<p id="AfterEncode"></p>
+
+<p>ลอง Decode จะได้ข้อมูลเดิม:</p>
+
+<p id="AfterDecode"></p>
+
+<button type="button" onclick="myFunction()">Submit</button>
+<script>
+function myFunction() {
+  // Define the string
+var decodedStringBtoA = 'https://devtech95.github.io';
+
+// Encode the String
+var encodedStringBtoA = btoa(decodedStringBtoA);
+
+// Decode the String
+var decodedStringAtoB = atob(encodedStringBtoA);
+
+  document.getElementById("BeforeEncode").innerHTML = decodedStringBtoA;
+  document.getElementById("AfterEncode").innerHTML = encodedStringBtoA;
+  document.getElementById("AfterDecode").innerHTML = decodedStringAtoB;
+
+}
+
+</script>
+
+</body>
+</html> 
