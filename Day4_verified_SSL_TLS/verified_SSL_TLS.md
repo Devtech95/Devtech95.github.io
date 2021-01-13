@@ -24,5 +24,4 @@
 
 Reference::
 ---------------------------------------
-> - https://base64.guru/learn/base64-characters
-> - https://www.digitalocean.com/community/tutorials/how-to-encode-and-decode-strings-with-base64-in-javascript
+> - https://rules.sonarsource.com/javascript/type/Vulnerability/RSPEC-4830
