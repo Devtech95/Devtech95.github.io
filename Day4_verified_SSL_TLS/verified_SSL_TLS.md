@@ -12,11 +12,11 @@
 
 # ตัวอย่างการเขียน Code  Noncompliant
 
-![at](https://devtech95.github.io/Day3_Base64_Javascript/Pic/Simplecode.PNG)
+![at](https://devtech95.github.io/Day3_Base64_Javascript/Pic/NonCompliant.PNG)
 
 # ที่นี้เป็นตัวอย่างการเขียน Code Compliant
 
-![at](https://devtech95.github.io/Day3_Base64_Javascript/Pic/Showcase.PNG)
+![at](https://devtech95.github.io/Day3_Base64_Javascript/Pic/Compliant.PNG)
 
 
 ## บทความเป็นตัวอย่างการใช้งาน Function https.request() ที่เป็น Standard built-in module: อย่างคร่าว  ขอบคุณครับ
