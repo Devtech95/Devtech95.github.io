@@ -31,7 +31,7 @@
 
 ![at](https://devtech95.github.io/Day5_Password_strength/Pic/result.PNG)
 
-## บทความเป็นตัวอย่างการใช้งาน Function regex() ในภาษา JAVA อย่างคร่าว  ขอบคุณครับ
+## บทความนี้เป็นตัวอย่างการใช้งาน Function regex() ในภาษา JAVA อย่างคร่าว  ขอบคุณครับ
 
 ## Reference
 
