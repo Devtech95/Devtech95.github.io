@@ -8,12 +8,12 @@
 
 ### บทความนี้จะแนะนำการตั้งรหัสผ่าน ที่ปลอดภัยหากปฏิบัติตามหัวข้อ ต่อไปนี้ทั้งหมด
 
-1. ใIt contains at least 8 characters and at most 20 characters. ()
-2. It contains at least one digit.
-3. It contains at least one upper case alphabet.
-4. It contains at least one lower case alphabet.
-5. It contains at least one special character which includes !@#$%&*()-+=^.
-6. It doesn’t contain any white space.
+1. It contains at least 8 characters and at most 20 characters. ( ประกอบด้วยอักขระอย่างน้อย 8 ตัวและไม่เกิน 20 อักขระ )
+2. It contains at least one digit. ( ประกอบด้วยตัวเลขอย่างน้อยหนึ่งหลัก )
+3. It contains at least one upper case alphabet. ( ประกอบด้วยอักษรตัวพิมพ์ใหญ่อย่างน้อยหนึ่งตัว )
+4. It contains at least one lower case alphabet. ( ประกอบด้วยอักษรตัวพิมพ์เล็กอย่างน้อยหนึ่งตัว )
+5. It contains at least one special character which includes !@#$%&*()-+=^. ( มีอักขระพิเศษอย่างน้อยหนึ่งตัวซึ่งรวมถึง! @ # $% & * () - + = ^ )
+6. It doesn’t contain any white space. ( ไม่มีช่องว่างในรหัสผ่าน )
 
 ### ตัวอย่างการเขียน Regular Expressions
 
