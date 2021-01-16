@@ -25,7 +25,7 @@
 
 ### ตัวอย่างการเขียนโปรแกรม Main
 
-![at](https://devtech95.github.io/Day7_AES_Encry_Decry/Pic/Main.PNG)
+![at](https://devtech95.github.io/Day7_AES_Encry_Decry/Pic/Main2.PNG)
 
 ### ผลลัพธ์
 
