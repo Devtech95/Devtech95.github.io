@@ -1,4 +1,4 @@
-package com.mkyong.crypto.encryptor;
+package com.theera.crypto.encryptor;
 
 
 import javax.crypto.KeyGenerator;
