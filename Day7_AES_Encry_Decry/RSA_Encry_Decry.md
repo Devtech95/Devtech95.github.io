@@ -21,7 +21,7 @@
 
 ### ตัวอย่างการเขียนโปรแกรม Decrypt AES
 
-![at](https://devtech95.github.io/Day7_AES_Encry_Decry/Pic/Decrypt.PNG)
+![at](https://devtech95.github.io/Day7_AES_Encry_Decry/Pic/decrypt.PNG)
 
 ### ตัวอย่างการเขียนโปรแกรม Main
 
