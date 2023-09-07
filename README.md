@@ -1,11 +1,11 @@
 
 ---
 
-<img align="center" width="30%" height="30%" src="Pic/profile.jpg">
 
 
 
-Theerapong Kanrawong
+
+
 ===============
 ## PERSONAL INFORMATION 
 Mobile : 084-888-8888
@@ -45,4 +45,4 @@ Soft Skill
 
 
 ## WORK EXPEREINCE
-    started his career as IT Support At Thaiparker, Samut Prakan THAILAND  (April 2015 – Present)
+    
